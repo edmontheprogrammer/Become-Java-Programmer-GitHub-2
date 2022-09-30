@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PublishRunnableJARFile:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/PublishRunnableJARFile_jar2</output-path>
+    <root id="archive" name="PublishRunnableJARFile.jar">
+      <element id="module-output" name="PublishRunnableJARFile" />
+    </root>
+  </artifact>
+</component>
